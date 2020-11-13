@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing on Chrome browser]]>
+    </line>
+    <line>
+      <![CDATA[Executing on Chrome browser]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000001634   Supplier-00000001634]]>
+    </line>
+    <line>
+      <![CDATA[Executing on Chrome browser]]>
+    </line>
+    <line>
+      <![CDATA[Iphone    Iphone]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126021" started-at="2020-11-11T04:14:13Z" finished-at="2020-11-11T04:16:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126021" started-at="2020-11-11T04:14:13Z" finished-at="2020-11-11T04:16:19Z">
+      <class name="DriverFactory.AppTest">
+        <test-method status="PASS" signature="kickStart()[pri:0, instance:DriverFactory.AppTest@28feb3fa]" name="kickStart" duration-ms="125979" started-at="2020-11-11T09:44:13Z" finished-at="2020-11-11T09:46:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing on Chrome browser]]>
+            </line>
+            <line>
+              <![CDATA[Executing on Chrome browser]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000001634   Supplier-00000001634]]>
+            </line>
+            <line>
+              <![CDATA[Executing on Chrome browser]]>
+            </line>
+            <line>
+              <![CDATA[Iphone    Iphone]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- DriverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
